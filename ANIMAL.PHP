@@ -1,5 +1,6 @@
 <?php
 class animal{
+    //falta avanzar mas. atte jesus
     private $id;
     private $nombre;
 
